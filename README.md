@@ -2,4 +2,4 @@
 
 Project Euler problems in Javascript and Ruby
 
-projecteuler.net
+https://projecteuler.net
